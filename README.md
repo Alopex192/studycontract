@@ -1,2 +1,2 @@
 # studycontract
-An app to realy commit to your degree and take it as a job.
+An app to really commit to your degree and take it as a game.
